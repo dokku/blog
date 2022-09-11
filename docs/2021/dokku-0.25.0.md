@@ -173,7 +173,6 @@ Our next release will continue on the [14 outstanding 1.0 issues](https://github
 
 As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://glider-slackin.herokuapp.com/) if you have questions, comments, or concerns.
 
-
 ---
 
 If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.

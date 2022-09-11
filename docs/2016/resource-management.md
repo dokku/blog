@@ -65,7 +65,6 @@ While dokku manages the lifecycle of application containers, it *does not* and a
 
 As many of our users have never actually maintained a server, we can certainly do more to help push our them in the right direction. In the next few weeks, we will be putting together a document that will gently push our users towards providers that may be able to take care of their needs, as well as clearly delineate where Dokku draws the line in the sand in terms of server management.
 
-
 ---
 
 If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.

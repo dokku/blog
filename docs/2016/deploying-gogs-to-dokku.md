@@ -115,7 +115,6 @@ Once you submit the form, you should have a working Gogs Installation!
 
 As we displayed above, Dokku's rich featureset allows developers to quickly and easily setup applications as complex as a git management tool. With it's ability to deploy Dockerfile applications, proxy ports on the fly, and mount persistent storage, Dokku is a great tool to have in your deployment arsenal. Here's hoping it only gets better!
 
-
 ---
 
 If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.

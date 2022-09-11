@@ -177,7 +177,6 @@ ansible-playbook -i hosts -s dokku.yml
 
 Once you have an `infra` repository containing the provisioning scripts for your servers, the next step is to do all Dokku configuration from this repository. This helps ensure migrating to a new server is as painless as possible, making service restoration a breeze.
 
-
 ---
 
 If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.

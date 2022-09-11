@@ -127,7 +127,6 @@ This can be done in a single call to `bin/generate` a script included with each 
 ### Commiting everything
 
 If everything went well, we can commit and push our new service plugin to Github. The plugin should automatically run tests in Github Actions, at which point you can catch any lingering errors.
-
 ---
 
 If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.

@@ -45,7 +45,6 @@ The consistency here paves the way for automation.
 
 While we have a cli aimed at humans, as developers, we yearn for interfaces computers can automate. Our next blog post will cover how developers may interact with Dokku in a declarative fashion in order to ensure that their servers and applications are configured as expected.
 
-
 ---
 
 If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.

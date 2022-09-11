@@ -112,7 +112,6 @@ As Dokku continues to mature towards a [1.0](https://github.com/dokku/dokku/mile
 
 As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop onto our IRC or Slack channel if you have questions, comments, or concerns.
 
-
 ---
 
 If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.

@@ -42,14 +42,13 @@ Dokku now supports using special characters, such as parenthesis, in container o
 dokku docker-options:add node-js-app deploy '--label "some.key=Host(\`node-js-app.dokku.arketyped.net\`)"'
 ```
 
-Some characters should be escaped - and quoting matters! - but label-based managers can now take full advantage of apps deployed via Dokku.
+Some characters should be escaped - and quoting matters! - but label-based proxy-implementations can now take full advantage of apps deployed via Dokku.
 
 ## It's a wrap
 
 Those were the major changes in 0.27.x. Our next post will cover 0.28.0!
 
 As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://glider-slackin.herokuapp.com/) if you have questions, comments, or concerns.
-
 
 ---
 
