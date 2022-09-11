@@ -47,6 +47,11 @@ jobs:
 
           echo "----> Generating blog"
           make docs-build
+
+          if [[ -n "$GITHUB_ACTION" ]]; then
+            sudo chown -R "$(whoami)" blog
+          fi
+
           rm -rf tmp/blog
           mv blog tmp/blog
 
