@@ -1,8 +1,6 @@
 ---
-layout: post
 title:  "Creating a Datastore plugin"
 date:   2021-11-14 12:5:00 -0400
-categories: release
 tags:
   - dokku
   - release

@@ -1,8 +1,6 @@
 ---
-layout: post
 title:  "Dokku 0.27.x Wrapup"
 date:   2022-08-10 00:16:09 -0400
-categories: release
 tags:
   - dokku
   - release

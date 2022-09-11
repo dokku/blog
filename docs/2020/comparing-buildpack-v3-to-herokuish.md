@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Comparing Cloud Native Buildpacks to Herokuish"
 date:   2020-04-08 14:50:00 -0400
 categories: technology

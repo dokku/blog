@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Automating Dokku Application Setup with Ansible"
 date:   2018-06-10 16:46:01 -0400
 categories: general

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Resource Management in Dokku"
 date:   2016-04-19 02:13:01 -0400
 categories: features

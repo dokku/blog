@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Welcome to Dokku!"
 date:   2016-04-10 23:39:01 -0400
 categories: first-prost

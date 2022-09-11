@@ -1,8 +1,6 @@
 ---
-layout: post
 title:  "Dokku Release 0.20.0"
 date:   2020-04-05 00:06:00 -0400
-categories: release
 tags:
   - dokku
   - release

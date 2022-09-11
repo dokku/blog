@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Dokku Experience"
 date:   2018-04-24 15:41:01 -0400
 categories: general

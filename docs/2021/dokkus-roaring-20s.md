@@ -1,8 +1,6 @@
 ---
-layout: post
 title:  "Dokku's Roaring 0.20s"
 date:   2021-01-18 00:13:19 -0400
-categories: release
 tags:
   - dokku
   - release

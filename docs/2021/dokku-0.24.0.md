@@ -1,8 +1,6 @@
 ---
-layout: post
 title:  "Dokku Release 0.24.0"
 date:   2021-03-04 00:17:29 -0400
-categories: release
 tags:
   - dokku
   - release

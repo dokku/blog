@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Tutorial: Deploying Gogs to Dokku"
 date:   2016-04-19 02:13:01 -0400
 categories: tutorials
