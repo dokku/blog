@@ -3,10 +3,10 @@ title:  "Creating a Datastore plugin"
 date:   2021-11-14 12:5:00 -0400
 tags:
   - dokku
-  - release
+  - plugins
 ---
 
-It's been a little over two weeks since our 0.26.x release landed. Here is a summary of what features were added during the 0.25.x release and new stuff in 0.26.x.
+Ever wanted to write a datastore plugin? This tutorial shows how we create official datastore plugins.
 
 > If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
 
