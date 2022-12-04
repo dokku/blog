@@ -73,7 +73,7 @@ Ever wanted to write a datastore plugin? This tutorial shows how we create offic
 
   [:octicons-arrow-right-24: Continue reading][Creating a Datastore plugin]
 
-  [Creating a Datastore plugin]: 2022/creating-a-datastore-plugin.md
+  [Creating a Datastore plugin]: 2021/creating-a-datastore-plugin.md
 
 ## [Dokku Release 0.28.0]
 
@@ -81,7 +81,7 @@ It's been a little over two weeks since our 0.28.x release landed. Here is a sum
 
   [:octicons-arrow-right-24: Continue reading][Dokku Release 0.28.0]
 
-  [Dokku Release 0.28.0]: 2022/dokku-0.28.0.md
+  [Dokku Release 0.28.0]: 2021/dokku-0.28.0.md
 
 ## [Dokku Release 0.26.0]
 
@@ -89,7 +89,7 @@ It's been a little over two weeks since our 0.26.x release landed. Here is a sum
 
   [:octicons-arrow-right-24: Continue reading][Dokku Release 0.26.0]
 
-  [Dokku Release 0.26.0]: 2022/dokku-0.26.0.md
+  [Dokku Release 0.26.0]: 2021/dokku-0.26.0.md
 
 ## [Dokku Release 0.25.0]
 
@@ -97,7 +97,7 @@ With the 0.25.x release of Dokku a few weeks ago, a folks may have questions as 
 
   [:octicons-arrow-right-24: Continue reading][Dokku Release 0.25.0]
 
-  [Dokku Release 0.25.0]: 2022/dokku-0.25.0.md
+  [Dokku Release 0.25.0]: 2021/dokku-0.25.0.md
 
 ## [Dokku Release 0.24.0]
 
@@ -105,7 +105,7 @@ Dokku version 0.24.0 was released earlier this week with a few new features that
 
   [:octicons-arrow-right-24: Continue reading][Dokku Release 0.24.0]
 
-  [Dokku Release 0.24.0]: 2022/dokku-0.24.0.md
+  [Dokku Release 0.24.0]: 2021/dokku-0.24.0.md
 
 ## [Dokku 0.23.x Wrapup]
 
@@ -113,7 +113,7 @@ Dokku version 0.24.0 was released earlier this week. This post covers the major 
 
   [:octicons-arrow-right-24: Continue reading][Dokku 0.23.x Wrapup]
 
-  [Dokku 0.23.x Wrapup]: 2022/dokku-0.23.x-wrapup.md
+  [Dokku 0.23.x Wrapup]: 2021/dokku-0.23.x-wrapup.md
 
 ## [Dokku Release 0.23.0]
 
@@ -121,7 +121,7 @@ Dokku version 0.23.0 was released this weekend with quite a few major improvemen
 
   [:octicons-arrow-right-24: Continue reading][Dokku Release 0.23.0]
 
-  [Dokku Release 0.23.0]: 2022/dokku-0.23.0.md
+  [Dokku Release 0.23.0]: 2021/dokku-0.23.0.md
 
 ## [Dokku's Roaring 0.20s]
 
@@ -129,7 +129,7 @@ It's been a few months since the last release post, so we'll summarize whats bee
 
   [:octicons-arrow-right-24: Continue reading][Dokku's Roaring 0.20s]
 
-  [Dokku's Roaring 0.20s]: 2022/dokkus-roaring-20s.md
+  [Dokku's Roaring 0.20s]: 2021/dokkus-roaring-20s.md
 
 ## [Comparing Cloud Native Buildpacks to Herokuish]
 
@@ -137,7 +137,7 @@ An upcoming piece of technology in the container space is Cloud Native Buildpack
 
   [:octicons-arrow-right-24: Continue reading][Comparing Cloud Native Buildpacks to Herokuish]
 
-  [Comparing Cloud Native Buildpacks to Herokuish]: 2022/comparing-buildpack-v3-to-herokuish.md
+  [Comparing Cloud Native Buildpacks to Herokuish]: 2020/comparing-buildpack-v3-to-herokuish.md
 
 ## [Dokku Release 0.20.0]
 
@@ -145,7 +145,7 @@ Dokku version 0.20.0 - and a few follow-on bugfixes - was released this week wit
 
   [:octicons-arrow-right-24: Continue reading][Dokku Release 0.20.0]
 
-  [Dokku Release 0.20.0]: 2022/dokku-0.20.0.md
+  [Dokku Release 0.20.0]: 2020/dokku-0.20.0.md
 
 ## [The Dokku Experience]
 
@@ -153,7 +153,7 @@ Dokku has historically had no way to introspect on the state of an installation.
 
   [:octicons-arrow-right-24: Continue reading][The Dokku Experience]
 
-  [The Dokku Experience]: 2022/the-dokku-experience.md
+  [The Dokku Experience]: 2018/the-dokku-experience.md
 
 ## [Automating Dokku Application Setup with Ansible]
 
@@ -161,7 +161,7 @@ This tutorial goes through the process of provisioning an app via ansible.
 
   [:octicons-arrow-right-24: Continue reading][Automating Dokku Application Setup with Ansible]
 
-  [Automating Dokku Application Setup with Ansible]: 2022/automating-dokku-setup.md
+  [Automating Dokku Application Setup with Ansible]: 2018/automating-dokku-setup.md
 
 ## [Tutorial: Deploying Gogs to Dokku]
 
@@ -169,7 +169,7 @@ Hot off the release of Dokku 0.6.3, here is a sweet tutorial made possible by th
 
   [:octicons-arrow-right-24: Continue reading][Tutorial: Deploying Gogs to Dokku]
 
-  [Tutorial: Deploying Gogs to Dokku]: 2022/deploying-gogs-to-dokku.md
+  [Tutorial: Deploying Gogs to Dokku]: 2016/deploying-gogs-to-dokku.md
 
 ## [Resource Management in Dokku]
 
@@ -179,7 +179,7 @@ There are two requirements for such a system, one of which we'll cover here.
 
   [:octicons-arrow-right-24: Continue reading][Resource Management in Dokku]
 
-  [Resource Management in Dokku]: 2022/resource-management.md
+  [Resource Management in Dokku]: 2016/resource-management.md
 
 ## [Welcome to Dokku!]
 
@@ -187,4 +187,4 @@ Hi all! The dokku maintainers finally decided it was a good idea to have a blog 
 
   [:octicons-arrow-right-24: Continue reading][Welcome to Dokku!]
 
-  [Welcome to Dokku!]: 2022/welcome-to-dokku.md
+  [Welcome to Dokku!]: 2016/welcome-to-dokku.md
