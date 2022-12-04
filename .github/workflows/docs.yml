@@ -25,6 +25,7 @@ jobs:
         env:
           BOT_GITHUB_USERNAME: ${{ secrets.HOMEBREW_GITHUB_USERNAME }}
           BOT_GITHUB_API_TOKEN: ${{ secrets.HOMEBREW_GITHUB_API_TOKEN }}
+          SITE_FOLDER: blog
         run: |
           echo "====> Authenticating to repository"
           git config --global user.name 'Dokku Bot'
@@ -45,23 +46,23 @@ jobs:
           echo "----> Generating docker image"
           make docs-build-image
 
-          echo "----> Generating blog"
+          echo "----> Generating $SITE_FOLDER"
           make docs-build
 
           if [[ -n "$GITHUB_ACTION" ]]; then
-            sudo chown -R "$(whoami)" blog
+            sudo chown -R "$(whoami)" $SITE_FOLDER
           fi
 
-          rm -rf tmp/blog
-          mv blog tmp/blog
+          rm -rf "tmp/$SITE_FOLDER"
+          mv "$SITE_FOLDER" "tmp/$SITE_FOLDER"
 
-          if [[ "$(git -C tmp ls-files -dmo)" == "blog/sitemap.xml.gz" ]]; then
+          if [[ "$(git -C tmp ls-files -dmo)" == "$SITE_FOLDER/sitemap.xml.gz" ]]; then
             echo " !    No doc changes found"
-            git -C tmp checkout -- blog/sitemap.xml.gz
+            git -C tmp checkout -- "$SITE_FOLDER/sitemap.xml.gz"
           else
-            echo "====> Pushing blog"
+            echo "====> Pushing $SITE_FOLDER"
             git -C tmp add .
-            git -C tmp commit -m "chore: regenerate blog"
+            git -C tmp commit -m "chore: regenerate $SITE_FOLDER"
 
             if [[ -n "$BOT_GITHUB_USERNAME" ]] && [[ -n "$BOT_GITHUB_API_TOKEN" ]]; then
               git -C tmp remote set-url origin "https://$BOT_GITHUB_USERNAME:$BOT_GITHUB_API_TOKEN@github.com/dokku/docs.git"
