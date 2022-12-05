@@ -67,14 +67,6 @@ some of those needs, laying the groundwork for future enhancements
 
   [Release 1.1.0]: 2022/pro-release-1.1.0.md
 
-## [Creating a Datastore plugin]
-
-Ever wanted to write a datastore plugin? This tutorial shows how we create official datastore plugins.
-
-  [:octicons-arrow-right-24: Continue reading][Creating a Datastore plugin]
-
-  [Creating a Datastore plugin]: 2021/creating-a-datastore-plugin.md
-
 ## [Dokku Release 0.28.0]
 
 It's been a little over two weeks since our 0.28.x release landed. Here is a summary of what new stuff is in 0.28.x.
@@ -154,22 +146,6 @@ Dokku has historically had no way to introspect on the state of an installation.
   [:octicons-arrow-right-24: Continue reading][The Dokku Experience]
 
   [The Dokku Experience]: 2018/the-dokku-experience.md
-
-## [Automating Dokku Application Setup with Ansible]
-
-This tutorial goes through the process of provisioning an app via ansible.
-
-  [:octicons-arrow-right-24: Continue reading][Automating Dokku Application Setup with Ansible]
-
-  [Automating Dokku Application Setup with Ansible]: 2018/automating-dokku-setup.md
-
-## [Tutorial: Deploying Gogs to Dokku]
-
-Hot off the release of Dokku 0.6.3, here is a sweet tutorial made possible by the new port handling feature of Dokku.
-
-  [:octicons-arrow-right-24: Continue reading][Tutorial: Deploying Gogs to Dokku]
-
-  [Tutorial: Deploying Gogs to Dokku]: 2016/deploying-gogs-to-dokku.md
 
 ## [Resource Management in Dokku]
 

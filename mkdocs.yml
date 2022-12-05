@@ -98,7 +98,6 @@ nav:
       - 2022/pro-release-1.2.0.md
       - 2022/pro-release-1.1.0.md
     - 2021:
-      - 2021/creating-a-datastore-plugin.md
       - 2021/dokku-0.23.0.md
       - 2021/dokku-0.23.x-wrapup.md
       - 2021/dokku-0.24.0.md
@@ -110,10 +109,8 @@ nav:
       - 2020/comparing-buildpack-v3-to-herokuish.md
       - 2020/dokku-0.20.0.md
     - 2018:
-      - 2018/automating-dokku-setup.md
       - 2018/the-dokku-experience.md
     - 2016:
-      - 2016/deploying-gogs-to-dokku.md
       - 2016/resource-management.md
       - 2016/welcome-to-dokku.md
   - Purchase Dokku Pro:
