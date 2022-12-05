@@ -113,5 +113,7 @@ nav:
     - 2016:
       - 2016/resource-management.md
       - 2016/welcome-to-dokku.md
+  - Tutorials:
+    - https://dokku.com/tutorials/
   - Purchase Dokku Pro:
     - https://dokku.dpdcart.com/cart/add?product_id=217344&method_id=236878
