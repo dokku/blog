@@ -1,6 +1,6 @@
 .PHONY: docs-build-image
 docs-build-image:
-	 docker build -f _build/Dockerfile --progress plain -t app/mkdocs-blog .
+	docker build -f _build/Dockerfile --progress plain -t app/mkdocs-blog .
 
 .PHONY: docs-build
 docs-build:
