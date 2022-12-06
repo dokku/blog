@@ -8,7 +8,9 @@ tags:
 
 Dokku version 0.23.0 was released this weekend with quite a few major improvements for many common workflows. We'll go over major changes below.
 
-> If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
+!!! tip
+
+    If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
 
 ## New Core Contributors
 
@@ -157,7 +159,7 @@ Thanks to [@crisward](https://github.com/crisward) for the inspiration via his [
 
 Our versioning is getting long in the tooth, and we're quickly winding towards an eventual 1.0 release. It's been teased in the past, but as of this writing, there are currently [18 outstanding issues](https://github.com/dokku/dokku/milestone/16) in the 1.0 milestone. We encourage folks to take a peak at them and help investigate bugs, come up with work plans, or contribute PRs where possible to help bring us over the finish line.
 
-As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://glider-slackin.herokuapp.com/) if you have questions, comments, or concerns.
+As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://slack.dokku.com/) if you have questions, comments, or concerns.
 
 ---
 

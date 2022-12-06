@@ -8,7 +8,9 @@ tags:
 
 Dokku version 0.20.0 - and a few follow-on bugfixes - was released this week with quite a few major improvements, mostly to proxying and networking. We'll go over major changes below.
 
-> If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
+!!! tip
+
+    If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
 
 ## Changes!
 

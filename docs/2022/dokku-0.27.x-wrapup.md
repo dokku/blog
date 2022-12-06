@@ -8,7 +8,9 @@ tags:
 
 Dokku version 0.27.0 was released a few months ago. This post covers the important changes that occurred throughout the lifetime of the 0.27.x series. A future post will cover the 0.28.0 release.
 
-> If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
+!!! tip
+
+    If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
 
 ## Additions
 
@@ -48,7 +50,7 @@ Some characters should be escaped - and quoting matters! - but label-based proxy
 
 Those were the major changes in 0.27.x. Our next post will cover 0.28.0!
 
-As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://glider-slackin.herokuapp.com/) if you have questions, comments, or concerns.
+As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://slack.dokku.com/) if you have questions, comments, or concerns.
 
 ---
 

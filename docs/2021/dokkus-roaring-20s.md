@@ -8,13 +8,15 @@ tags:
 
 It's been a few months since the last release post, so we'll summarize whats been going on in Dokku Land in 2020.
 
-> If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
+!!! tip
+
+    If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
 
 ## Discussions
 
 Where should you get help? We've added [Github Discussions](https://github.com/dokku/dokku/discussions) support to the main project. Folks are encouraged to post questions and seek help from the community there. This will be a monitored channel, and is subject to the [Code of Conduct](https://github.com/dokku/.github/blob/master/CODE_OF_CONDUCT.md).
 
-If you are seeking more "live" support, join the `#dokku` channel on the [Gliderlabs Slack](https://glider-slackin.herokuapp.com/). A member of the core team - in addition to community members! - will attempt to help you given enough time and information.
+If you are seeking more "live" support, join the `#dokku` channel on the [Gliderlabs Slack](https://slack.dokku.com/). A member of the core team - in addition to community members! - will attempt to help you given enough time and information.
 
 Users can continue posting to Stackoverflow or other locations, though those will not be actively monitored for issues.
 
@@ -111,7 +113,7 @@ All that said, not all plugins will be rewritten in Golang - the `git` plugin is
 
 0.22.x was a feature-packed release, and we're not slowing down. 0.23.x is around the corner, and will include quite a few interesting features for folks. We'll save those notes for the next blog post :)
 
-As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://glider-slackin.herokuapp.com/) if you have questions, comments, or concerns.
+As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://slack.dokku.com/) if you have questions, comments, or concerns.
 
 ---
 

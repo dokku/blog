@@ -8,7 +8,9 @@ tags:
 
 Dokku version 0.24.0 was released earlier this week. This post covers the major changes that occurred throughout the lifetime of the 0.23.x series. A future post will cover the 0.24.0 release.
 
-> If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
+!!! tip
+
+    If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
 
 ## Additions
 
@@ -75,7 +77,7 @@ As of [#4373](https://github.com/dokku/dokku/pull/4373), the Procfile is now ext
 
 And that's it for 0.23.x. Our next post will cover 0.24.0, as well as plans for future releases.
 
-As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://glider-slackin.herokuapp.com/) if you have questions, comments, or concerns.
+As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://slack.dokku.com/) if you have questions, comments, or concerns.
 
 ---
 

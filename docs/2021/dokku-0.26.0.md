@@ -8,7 +8,9 @@ tags:
 
 It's been a little over two weeks since our 0.26.x release landed. Here is a summary of what features were added during the 0.25.x release and new stuff in 0.26.x.
 
-> If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
+!!! tip
+
+    If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
 
 ## New Features during the 0.25.x Series
 
@@ -43,7 +45,9 @@ We’ve since added more complete support for developing in VSCode’s Remote Co
 
 ### Schedule Process Types in Parallel
 
-> This functionality was graciously sponsored by [Rechat](https://rechat.com/), a company doing remarkable efforts to help simplify and elevate how Real Estate Agents and Brokers operate. 
+!!! note
+
+    This functionality was graciously sponsored by [Rechat](https://rechat.com/), a company doing remarkable efforts to help simplify and elevate how Real Estate Agents and Brokers operate. 
 
 [#4829](https://github.com/dokku/dokku/pull/4829)
 
@@ -128,7 +132,7 @@ We'll have more information in the coming week, but Dokku Pro will be provided u
 
 Our next release will continue on the [9 outstanding 1.0 issues](https://github.com/dokku/dokku/milestone/16). We encourage folks to take a peak at them and help investigate bugs, come up with work plans, or contribute PRs where possible to help bring us over the finish line.
 
-As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://glider-slackin.herokuapp.com/) if you have questions, comments, or concerns.
+As always, please post issues with bugs or functionality you think Dokku might benefit from. As well, feel free to hop into [Github Discussions](https://github.com/dokku/dokku/discussions) or [Slack channel](https://slack.dokku.com/) if you have questions, comments, or concerns.
 
 ---
 

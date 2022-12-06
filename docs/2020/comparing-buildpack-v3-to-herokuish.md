@@ -10,7 +10,9 @@ tags:
 
 An upcoming piece of technology in the container space is Cloud Native Buildpacks (CNB). This is an initiative led by Pivotal and Heroku and contributed to by a wide range of community members, and one that the Dokku project has been following fairly closely. CNB builds upon the buildpack "standard" initially developed at Heroku, modified at Pivotal for Cloud Foundry, and used/abused by the `gliderlabs/herokuish` project. This post goes over a small amount of history, compares buildpack implementations across vendors, and talks about the future of buildpacks as they relate to Dokku.
 
-> If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
+!!! tip
+
+    If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
 
 ## History Channel Vault
 
@@ -31,7 +33,9 @@ Suffice to say, this divergence isn't great for the community, nor great for pus
 
 While the new specification - still under development - provides a new, unified way to create and distribute buildpacks, there can still be differences between platforms. At this point in time, there are actually two different main "builders" - a collection of buildpacks - that folks in the community can use to play around with CNBs (both are based on the Bionic stack). They do provide slightly different functionality, so a comparison between them seems like a reasonable thing to do. We'll also compare CNBs to `gliderlabs/herokuish`, which is the main OSS implementation of the buildpack v2a technology.
 
-> At the time of writing, Heroku's builder contains v2a buildpacks with a shim to allow them to run under the v3 specification. Additionally, there is a possibility that the organizations will collaborate on buildpacks in the future - who wants to rebuild the wheel? - but this is sort of all in the air. Please keep this in mind if reading this blog post a few months/years from the time of publication.
+!!! note
+
+    At the time of writing, Heroku's builder contains v2a buildpacks with a shim to allow them to run under the v3 specification. Additionally, there is a possibility that the organizations will collaborate on buildpacks in the future - who wants to rebuild the wheel? - but this is sort of all in the air. Please keep this in mind if reading this blog post a few months/years from the time of publication.
 
 ### Installing dependencies
 
@@ -96,7 +100,9 @@ At the time of writing, there isn't a way to clear out that cache volume, so you
 
 If you are rebuilding an app using pack, you'll notice that there doesn't appear to be any caching with the Heroku builder. This might be a bug due to shim usage, and will likely be resolved in the future, but for now should expect this to be the case.
 
-> As an aside, the `buildpacks/lifecycle` project - and therefore pack - creates OCI compatible images, so tooling that only works with the older [Docker Image Specification](https://github.com/moby/moby/tree/master/image/spec) may fail when using pack-built images.
+!!! note
+
+    As an aside, the `buildpacks/lifecycle` project - and therefore pack - creates OCI compatible images, so tooling that only works with the older [Docker Image Specification](https://github.com/moby/moby/tree/master/image/spec) may fail when using pack-built images.
 
 #### With Herokuish
 

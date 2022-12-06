@@ -9,7 +9,9 @@ tags:
 
 Hi all! The dokku maintainers finally decided it was a good idea to have a blog to post thoughts on the development, evolution, and roadmap of Dokku. Our goal with these posts is to help inform you - dokku users and developers - as to where dokku is headed both internally and externally.
 
-> If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
+!!! tip
+
+    If you're using Dokku - especially for commercial purposes - consider donating to project development via [Github Sponsors](https://github.com/sponsors/dokku), [OpenCollective](https://opencollective.com/dokku), or [Patreon](https://www.patreon.com/dokku). Funds go to general development, support, and infrastructure costs.
 
 ### What is dokku?
 
