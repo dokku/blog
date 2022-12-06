@@ -25,6 +25,14 @@ search:
 
 # Blog
 
+## [Dokku 0.28.x Wrapup]
+
+It's wrapup time! This post covers the important changes that occurred throughout the lifetime of the 0.28.x series.
+
+  [:octicons-arrow-right-24: Continue reading][Dokku 0.28.x Wrapup]
+
+  [Dokku 0.28.x Wrapup]: 2022/dokku-0.28.x-wrapup.md
+
 ## [Release 1.2.0]
 
 __The 1.2.0 release introduces team-based access control and many internal
