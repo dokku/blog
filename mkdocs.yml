@@ -95,8 +95,8 @@ nav:
     - index.md
     - 2022:
       - 2022/dokku-0.28.x-wrapup.md
-      - 2022/dokku-0.27.x-wrapup.md
       - 2022/pro-release-1.2.0.md
+      - 2022/dokku-0.27.x-wrapup.md
       - 2022/pro-release-1.1.0.md
     - 2021:
       - 2021/dokku-0.23.0.md
