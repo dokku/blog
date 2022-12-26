@@ -6,7 +6,7 @@ tags:
   - release
 ---
 
-The last minor release of the year is here! Here is a summary of what is new in 0.29.x.
+The last minor release of the year is here! Here is a summary of what is new in [0.29.x](https://github.com/dokku/dokku/releases/tag/v0.29.0).
 
 !!! tip
 
