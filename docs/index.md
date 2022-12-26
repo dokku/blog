@@ -25,6 +25,14 @@ search:
 
 # Blog
 
+## [Dokku Release 0.29.0]
+
+The last minor release of the year is here! Here is a summary of what is new in 0.29.x.
+
+  [:octicons-arrow-right-24: Continue reading][Dokku Release 0.29.0]
+
+  [Dokku Release 0.29.0]: 2022/dokku-0.29.0.md
+
 ## [Dokku 0.28.x Wrapup]
 
 It's wrapup time! This post covers the important changes that occurred throughout the lifetime of the 0.28.x series.
