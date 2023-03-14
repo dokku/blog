@@ -25,6 +25,14 @@ search:
 
 # Blog
 
+## [Dokku Release 0.30.0]
+
+The first minor release of the year is here! Here is a summary of what is new in 0.30.x.
+
+  [:octicons-arrow-right-24: Continue reading][Dokku Release 0.30.0]
+
+  [Dokku Release 0.30.0]: 2023/dokku-0.30.0.md
+
 ## [Dokku Release 0.29.0]
 
 The last minor release of the year is here! Here is a summary of what is new in 0.29.x.
