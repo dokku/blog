@@ -88,6 +88,10 @@ When deploying a project via `git:sync`, it was possible to get into a state whe
 
 This fixes issues where users may somehow add an https mapping but are missing an ssl certificate, causing nginx to not load properly. We now ignore the mapping and warn users of the misconfiguration.
 
+## Upgrading
+
+As with every upgrade, please see the [0.28.0 migration guide](/docs/appendices/0.28.0-migration-guide.md) for more information on upgrading to 0.28.0.
+
 ## It's a wrap
 
 Those were the major changes in 0.28.x. Our next post will cover 0.29.0!

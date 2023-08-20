@@ -100,6 +100,10 @@ Being able to specify `--all` and increase parallelism of save commands is alway
 
 If parallelism is needed for a specific command, please file an issue to get it added :)
 
+## Upgrading
+
+As with every upgrade, please see the [0.24.0 migration guide](/docs/appendices/0.24.0-migration-guide.md) for more information on upgrading to 0.24.0.
+
 ## The Next Minor Release
 
 Our next release will continue on the [16 outstanding 1.0 issues](https://github.com/dokku/dokku/milestone/16). We hope to knock out a few of these, especially those related to Dockerfile and ports handling. We encourage folks to take a peak at them and help investigate bugs, come up with work plans, or contribute PRs where possible to help bring us over the finish line.

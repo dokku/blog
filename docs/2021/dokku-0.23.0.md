@@ -155,6 +155,10 @@ We hope to continue adding interesting git-based workflows in upcoming releases,
 
 Thanks to [@crisward](https://github.com/crisward) for the inspiration via his [dokku-clone](https://github.com/crisward/dokku-clone) project.
 
+## Upgrading
+
+As with every upgrade, please see the [0.23.0 migration guide](/docs/appendices/0.23.0-migration-guide.md) for more information on upgrading to 0.23.0.
+
 ## 1.0?
 
 Our versioning is getting long in the tooth, and we're quickly winding towards an eventual 1.0 release. It's been teased in the past, but as of this writing, there are currently [18 outstanding issues](https://github.com/dokku/dokku/milestone/16) in the 1.0 milestone. We encourage folks to take a peak at them and help investigate bugs, come up with work plans, or contribute PRs where possible to help bring us over the finish line.

@@ -169,6 +169,10 @@ Previously, this property was left alone, resulting in Dokku not respecting the 
 
 Previously, users on ARM64 machines would not be able to enable traefik's letsencrypt integration due to a docker bug in file mounting. This is now fixed across all platforms - simply run `traefik:stop` and `traefik:start`.
 
+## Upgrading
+
+As with every upgrade, please see the [0.31.0 migration guide](/docs/appendices/0.31.0-migration-guide.md) for more information on upgrading to 0.31.0.
+
 ## Future Plans
 
 ### Short-term project re-prioritization

@@ -46,6 +46,10 @@ dokku docker-options:add node-js-app deploy '--label "some.key=Host(\`node-js-ap
 
 Some characters should be escaped - and quoting matters! - but label-based proxy-implementations can now take full advantage of apps deployed via Dokku.
 
+## Upgrading
+
+As with every upgrade, please see the [0.27.0 migration guide](/docs/appendices/0.27.0-migration-guide.md) for more information on upgrading to 0.27.0.
+
 ## It's a wrap
 
 Those were the major changes in 0.27.x. Our next post will cover 0.28.0!

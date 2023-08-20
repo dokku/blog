@@ -169,6 +169,10 @@ The above takes advantage of new `null` builder and scheduler plugins that do no
 
 This functionality can be used when trying to expose non-Dokku maintained services to the external world without requiring a deployed proxy. One nice side-effect is that this also means users can expose services with letsencrypt support.
 
+## Upgrading
+
+As with every upgrade, please see the [0.25.0 migration guide](/docs/appendices/0.25.0-migration-guide.md) for more information on upgrading to 0.25.0.
+
 ## The Next Minor Release
 
 Our next release will continue on the [14 outstanding 1.0 issues](https://github.com/dokku/dokku/milestone/16). We encourage folks to take a peak at them and help investigate bugs, come up with work plans, or contribute PRs where possible to help bring us over the finish line.

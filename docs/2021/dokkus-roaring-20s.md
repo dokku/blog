@@ -109,6 +109,10 @@ While all of these have been performed one time or another in bash, the fact is 
 
 All that said, not all plugins will be rewritten in Golang - the `git` plugin is likely to stay as is - and some plugins may see hybrid rewrites as necessary, but this should hopefully give folks a bit of an idea as to why the Dokku codebase is not predominantly written in shell.
 
+## Upgrading
+
+As with every upgrade, please see the [0.22.0 migration guide](/docs/appendices/0.22.0-migration-guide.md) for more information on upgrading to 0.22.0.
+
 ## Future Development
 
 0.22.x was a feature-packed release, and we're not slowing down. 0.23.x is around the corner, and will include quite a few interesting features for folks. We'll save those notes for the next blog post :)

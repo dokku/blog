@@ -84,6 +84,10 @@ We now no longer attempt to reinstall plugins that already exist. This fixes iss
 
 A recent change in CNB's pack utility changed how processes were launched, causing any process to fail to start. We now specify a custom entrypoint to fix this issue. Users of CNB can get back to building their apps!
 
+## Upgrading
+
+As with every upgrade, please see the [0.30.0 migration guide](/docs/appendices/0.30.0-migration-guide.md) for more information on upgrading to 0.30.0.
+
 ## Dokku Pro
 
 Dokku Pro is a commercial offering that provides a familiar Web UI for all common tasks performed by developers. End users can expect an interface that provides various complex cli commands in an intuitive, app-centric manner, quickly speeding up tasks that might otherwise be difficult for new and old users to perform. Additionally, it provides a way to perform these tasks remotely via a json api, enabling easier, audited remote management of servers. Finally, Dokku Pro provides an alternative, https-based method for deploying code which can be used in environments that lockdown ssh access to servers.

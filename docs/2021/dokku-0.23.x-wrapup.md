@@ -73,6 +73,10 @@ The fix in [#4402](https://github.com/dokku/dokku/pull/4402) migrates apps to th
 
 As of [#4373](https://github.com/dokku/dokku/pull/4373), the Procfile is now extracted in the pre-deploy step for every deploy and otherwise not removed. Thus, it should always exist when necessary - web will be scale to 1 automatically and it won't need to be present on future ps:scale calls since we'll have the scale file - and the command can execute faster.
 
+## Upgrading
+
+As with every upgrade, please see the [0.23.0 migration guide](/docs/appendices/0.23.0-migration-guide.md) for more information on upgrading to 0.23.0.
+
 ## It's a wrap
 
 And that's it for 0.23.x. Our next post will cover 0.24.0, as well as plans for future releases.

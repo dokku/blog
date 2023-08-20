@@ -99,6 +99,10 @@ apt install dokku-event-listener
 
 The `dokku-event-listener` daemon will properly listen to container events - start, restart, delete, destroy, die - and reload the nginx config for the related app as appropriate. It will even rebuild the application if we've hit the max container restart count. It will also output debug logging that you can use to correlate application crashes with service outages.
 
+## Upgrading
+
+As with every upgrade, please see the [0.20.0 migration guide](/docs/appendices/0.20.0-migration-guide.md) for more information on upgrading to 0.20.0.
+
 ## Future development
 
 As Dokku continues to mature towards a [1.0](https://github.com/dokku/dokku/milestones/v1.0.0) target, the following areas will be of greater focus in upcoming releases:

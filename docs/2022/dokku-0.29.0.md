@@ -47,6 +47,10 @@ While Dokku has supported ARM/ARM64 servers for a while, Herokuish - the most co
 
 For more adventurous Dokku users, the herokuish builder can now be enabled on ARM/ARM64 servers (though it is not enabled by default). Individual buildpacks will still need to have support added for ARM/ARM64 platforms, but users are no longer artificially limited by Dokku to other builders.
 
+## Upgrading
+
+As with every upgrade, please see the [0.29.0 migration guide](/docs/appendices/0.29.0-migration-guide.md) for more information on upgrading to 0.29.0.
+
 ## Dokku Pro
 
 Dokku Pro is a commercial offering that provides a familiar Web UI for all common tasks performed by developers. End users can expect an interface that provides various complex cli commands in an intuitive, app-centric manner, quickly speeding up tasks that might otherwise be difficult for new and old users to perform. Additionally, it provides a way to perform these tasks remotely via a json api, enabling easier, audited remote management of servers. Finally, Dokku Pro provides an alternative, https-based method for deploying code which can be used in environments that lockdown ssh access to servers.
