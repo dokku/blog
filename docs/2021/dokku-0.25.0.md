@@ -171,7 +171,7 @@ This functionality can be used when trying to expose non-Dokku maintained servic
 
 ## Upgrading
 
-As with every upgrade, please see the [0.25.0 migration guide](/docs/appendices/0.25.0-migration-guide.md) for more information on upgrading to 0.25.0.
+As with every upgrade, please see the [0.25.0 migration guide](/docs/appendices/0.25.0-migration-guide/) for more information on upgrading to 0.25.0.
 
 ## The Next Minor Release
 

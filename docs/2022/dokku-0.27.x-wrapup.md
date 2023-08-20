@@ -48,7 +48,7 @@ Some characters should be escaped - and quoting matters! - but label-based proxy
 
 ## Upgrading
 
-As with every upgrade, please see the [0.27.0 migration guide](/docs/appendices/0.27.0-migration-guide.md) for more information on upgrading to 0.27.0.
+As with every upgrade, please see the [0.27.0 migration guide](/docs/appendices/0.27.0-migration-guide/) for more information on upgrading to 0.27.0.
 
 ## It's a wrap
 

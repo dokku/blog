@@ -157,7 +157,7 @@ Thanks to [@crisward](https://github.com/crisward) for the inspiration via his [
 
 ## Upgrading
 
-As with every upgrade, please see the [0.23.0 migration guide](/docs/appendices/0.23.0-migration-guide.md) for more information on upgrading to 0.23.0.
+As with every upgrade, please see the [0.23.0 migration guide](/docs/appendices/0.23.0-migration-guide/) for more information on upgrading to 0.23.0.
 
 ## 1.0?
 

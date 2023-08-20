@@ -171,7 +171,7 @@ Previously, users on ARM64 machines would not be able to enable traefik's letsen
 
 ## Upgrading
 
-As with every upgrade, please see the [0.31.0 migration guide](/docs/appendices/0.31.0-migration-guide.md) for more information on upgrading to 0.31.0.
+As with every upgrade, please see the [0.31.0 migration guide](/docs/appendices/0.31.0-migration-guide/) for more information on upgrading to 0.31.0.
 
 ## Future Plans
 

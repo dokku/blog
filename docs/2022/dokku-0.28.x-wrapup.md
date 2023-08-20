@@ -90,7 +90,7 @@ This fixes issues where users may somehow add an https mapping but are missing a
 
 ## Upgrading
 
-As with every upgrade, please see the [0.28.0 migration guide](/docs/appendices/0.28.0-migration-guide.md) for more information on upgrading to 0.28.0.
+As with every upgrade, please see the [0.28.0 migration guide](/docs/appendices/0.28.0-migration-guide/) for more information on upgrading to 0.28.0.
 
 ## It's a wrap
 

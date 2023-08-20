@@ -122,7 +122,7 @@ While there are some limitations, the general Dokku experience works quite well 
 
 ## Upgrading
 
-As with every upgrade, please see the [0.26.0 migration guide](/docs/appendices/0.26.0-migration-guide.md) for more information on upgrading to 0.26.0.
+As with every upgrade, please see the [0.26.0 migration guide](/docs/appendices/0.26.0-migration-guide/) for more information on upgrading to 0.26.0.
 
 ## Dokku Pro
 
