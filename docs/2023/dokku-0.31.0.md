@@ -183,7 +183,6 @@ With the release of Dokku 0.31.0, we've fixed a number of long-standing issues w
 - There are a number of open issues in official plugins that have thus been ignored. This has been an annoyance for more than a few users, and greatly diminishes the quality of the overall project.
 - Dokku now has a ton of features but the Kubernetes and Nomad plugins implement but a fraction of them - missing are cron support, better healthchecks, and much more.
 - Issues blocking a 1.0 release haven't decreased drastically over the past few years. Dokku itself is rock-solid, but a 1.0 label will ease anxieties for users upgrading Dokku.
-- On a personal note, I've taken a job at [Porter](https://www.porter.run/), which offers a best-in-class experience around managing a highly-scalable PaaS on your own cloud provider. This will provide me an opportunity to take my learnings from building the best-in-class single-server PaaS to teams and companies that need a rock-solid platform that scales as they scale.
 
 With all of the above in mind, the next few months will be spent on enhancing Dokku Pro, implementing long-desired functionality in the official plugins, burning through 1.0 blockers, and bringing the Kubernetes and Nomad scheduler plugins to parity with the built-in docker-local scheduler.
 
