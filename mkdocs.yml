@@ -95,6 +95,8 @@ nav:
     - https://pro.dokku.com/docs/getting-started/
   - Blog:
     - index.md
+    - 2024:
+      - 2024/dokku-0.33.0.md
     - 2023:
       - 2023/dokku-0.31.0.md
       - 2023/dokku-0.30.0.md

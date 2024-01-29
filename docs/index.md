@@ -25,6 +25,14 @@ search:
 
 # Blog
 
+## [Dokku Release 0.33.0]
+
+Dokku 0.33.0 comes with a ton of great features and improvements for the future. Here is a summary of what is new in 0.33.x.
+
+  [:octicons-arrow-right-24: Continue reading][Dokku Release 0.33.0]
+
+  [Dokku Release 0.33.0]: 2023/dokku-0.33.0.md
+
 ## [Dokku Release 0.31.0]
 
 The latest feature-packed release of Dokku has arrived. Here is a summary of what is new in 0.31.x.
@@ -181,7 +189,7 @@ Dokku has historically had no way to introspect on the state of an installation.
 
 ## [Resource Management in Dokku]
 
-Every so often, user's ask if it's possible to use Dokku as the basis of a system where each user in Dokku would have access to *only* their applications. Because of various reasons, this isn't possible out of the box, though it's certainly within the realm of possibility.
+Every so often, user's ask if it's possible to use Dokku as the basis of a system where each user in Dokku would have access to _only_ their applications. Because of various reasons, this isn't possible out of the box, though it's certainly within the realm of possibility.
 
 There are two requirements for such a system, one of which we'll cover here.
 
