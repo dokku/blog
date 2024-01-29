@@ -31,7 +31,7 @@ Dokku 0.33.0 comes with a ton of great features and improvements for the future.
 
   [:octicons-arrow-right-24: Continue reading][Dokku Release 0.33.0]
 
-  [Dokku Release 0.33.0]: 2023/dokku-0.33.0.md
+  [Dokku Release 0.33.0]: 2024/dokku-0.33.0.md
 
 ## [Dokku Release 0.31.0]
 
