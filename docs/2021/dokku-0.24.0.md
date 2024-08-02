@@ -102,7 +102,7 @@ If parallelism is needed for a specific command, please file an issue to get it 
 
 ## Upgrading
 
-As with every upgrade, please see the [0.24.0 migration guide](/docs/appendices/0.24.0-migration-guide/) for more information on upgrading to 0.24.0.
+As with every upgrade, please see the [0.24.0 migration guide](https://dokku.com/docs/appendices/0.24.0-migration-guide/) for more information on upgrading to 0.24.0.
 
 ## The Next Minor Release
 

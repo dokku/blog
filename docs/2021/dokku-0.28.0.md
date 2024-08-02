@@ -74,7 +74,7 @@ While there are some limitations, the general Dokku experience works quite well 
 
 ## Upgrading
 
-As with every upgrade, please see the [0.28.0 migration guide](/docs/appendices/0.28.0-migration-guide/) for more information on upgrading to 0.28.0.
+As with every upgrade, please see the [0.28.0 migration guide](https://dokku.com/docs/appendices/0.28.0-migration-guide/) for more information on upgrading to 0.28.0.
 
 ## Dokku Pro
 
