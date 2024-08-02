@@ -75,7 +75,7 @@ As of [#4373](https://github.com/dokku/dokku/pull/4373), the Procfile is now ext
 
 ## Upgrading
 
-As with every upgrade, please see the [0.23.0 migration guide](/docs/appendices/0.23.0-migration-guide/) for more information on upgrading to 0.23.0.
+As with every upgrade, please see the [0.23.0 migration guide](https://dokku.com/docs/appendices/0.23.0-migration-guide/) for more information on upgrading to 0.23.0.
 
 ## It's a wrap
 
