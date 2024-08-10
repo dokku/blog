@@ -111,7 +111,7 @@ All that said, not all plugins will be rewritten in Golang - the `git` plugin is
 
 ## Upgrading
 
-As with every upgrade, please see the [0.22.0 migration guide](/docs/appendices/0.22.0-migration-guide/) for more information on upgrading to 0.22.0.
+As with every upgrade, please see the [0.22.0 migration guide](https://dokku.com/docs/appendices/0.22.0-migration-guide/) for more information on upgrading to 0.22.0.
 
 ## Future Development
 
