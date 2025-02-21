@@ -24,15 +24,15 @@ Here are a few of the updates included in Dokku Pro 1.3.0.
 
 ## Major Changes
 
-### Requires Dokku 0.35.15Z+
+### Requires Dokku 0.35.15+
 
 !!! warning
     Dokku Pro 1.2+ will refuse to start if the minimum Dokku version is not installed.
 
 The minimum Dokku version increase was made to support new functionality in
-Dokku Pro. The previous 1.2.0 version required at least 0.27.8, which was released
-in July of 2022. Users are encouraged to upgrade to the latest version of Dokku
-prior to upgrading Dokku Pro.
+Dokku Pro. The previous 1.2.0 version required at least 0.27.8, which was last released
+in July of 2022, and there have been a significant number of improvements to Dokku since then.
+Users are encouraged to upgrade to the latest version of Dokku prior to upgrading Dokku Pro.
 
 To update, run:
 
