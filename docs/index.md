@@ -25,6 +25,23 @@ search:
 
 # Blog
 
+## [Release 1.3.0]
+
+__The 1.3.0 release introduces user and team management in the UI while revamping
+the internal design of the product.__
+
+---
+
+Dokku has traditionally been a single-tenant PaaS solution, where all users
+had access to all functionality on the server. While there were community
+plugins that tackled authentication, each implementation had it's rough edges due
+to interfaces in Dokku itself. Dokku Pro 1.2.0 polishes those edges while
+introducing a flexible permission system for organizations that need it.
+
+  [:octicons-arrow-right-24: Continue reading][Release 1.3.0]
+
+  [Release 1.3.0]: 2025/pro-release-1.3.0.md
+
 ## [Dokku Release 0.33.0]
 
 Dokku 0.33.0 comes with a ton of great features and improvements for the future. Here is a summary of what is new in 0.33.x.
