@@ -32,7 +32,7 @@ Ubuntu 18.04 is now a deprecated installation target. The operating system will 
 
 ### The automatic init process can now be disabled
 
-This change allows projects using s6 overlay - in particular [linxserver](https://linuxserver.io/) images - the ability to disable --init flag injection. 
+This change allows projects using s6 overlay - in particular [linuxserver](https://linuxserver.io/) images - the ability to disable --init flag injection. 
 
 Additionally, force-disable --init flag usage for all linuxserver images. [Linuxserver](https://linuxserver.io/) images uses S6, and there are enough of them that this makes sense to autodetect on behalf of users.
 
