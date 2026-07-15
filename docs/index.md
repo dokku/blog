@@ -25,6 +25,14 @@ search:
 
 # Blog
 
+## [Dokku Release 0.38.0]
+
+The first release of the year is here! Here is a summary of what is new in 0.38.x.
+
+  [:octicons-arrow-right-24: Continue reading][Dokku Release 0.38.0]
+
+  [Dokku Release 0.38.0]: 2026/dokku-0.38.0.md
+
 ## [Release 1.3.0]
 
 __The 1.3.0 release introduces user and team management in the UI while revamping
