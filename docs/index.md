@@ -25,6 +25,22 @@ search:
 
 # Blog
 
+## [Release 1.4.0]
+
+__The 1.4.0 release turns the internal rewrite from 1.3.0 into a wave of
+user-facing features, headlined by a completely redesigned interface.__
+
+---
+
+Where 1.3.0 introduced user and team management, 1.4.0 is almost entirely about
+things you can see and use - a completely redesigned interface, in-browser process
+management, streaming access and error logs, bulk environment variables,
+deploying from a Docker image, and a much larger API.
+
+  [:octicons-arrow-right-24: Continue reading][Release 1.4.0]
+
+  [Release 1.4.0]: 2026/pro-release-1.4.0.md
+
 ## [Dokku Release 0.38.0]
 
 The first release of the year is here! Here is a summary of what is new in 0.38.x.
