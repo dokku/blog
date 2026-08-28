@@ -22,3 +22,8 @@ updates:
     open-pull-requests-limit: 10
     labels:
       - "type: dependencies"
+    versioning-strategy: increase
+    groups:
+      mkdocs:
+        patterns:
+          - "mkdocs*"
