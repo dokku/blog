@@ -2,7 +2,7 @@ FROM python:3.15.0rc1-alpine
 
 WORKDIR /usr/src/app
 
-COPY ["_build/pyproject.toml", "_build/poetry.toml", "_build/poetry.lock", "/usr/src/app/"]
+COPY ["_build/pyproject.toml", "_build/poetry.toml", "_build/poetry.lock", "_build/README.md", "/usr/src/app/"]
 
 RUN apk add --no-cache bash build-base poetry yaml && \
   poetry install --no-root

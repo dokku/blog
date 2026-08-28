@@ -1,17 +1,16 @@
-[tool.poetry]
-name = "-build"
+[project]
+name = "dokku-blog-build"
 version = "0.1.0"
-description = ""
-authors = ["Jose Diaz-Gonzalez <email@josediazgonzalez.com>"]
+description = "mkdocs build environment for the Dokku blog"
+authors = [{ name = "Jose Diaz-Gonzalez", email = "email@josediazgonzalez.com" }]
 readme = "README.md"
-
-[tool.poetry.dependencies]
-python = "^3.12"
-mkdocs = "^1.6.1"
-mkdocs-material = "^9.5.43"
-mkdocs-material-extensions = "^1.3.1"
-mkdocs-exclude = "^1.0.2"
-
+requires-python = ">=3.12,<4.0"
+dependencies = [
+  "mkdocs>=1.6.1,<2",
+  "mkdocs-material>=9.5.43,<10",
+  "mkdocs-material-extensions>=1.3.1,<2",
+  "mkdocs-exclude>=1.0.2,<2",
+]
 
 [build-system]
 requires = ["poetry-core"]
