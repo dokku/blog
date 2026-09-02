@@ -25,6 +25,23 @@ search:
 
 # Blog
 
+## [Release 1.5.0]
+
+__The 1.5.0 release stops assuming there is only one server, one scheduler, and
+one way to get code onto the box.__
+
+---
+
+Dokku Pro used to assume you ran a single server, on the default docker-local
+scheduler, and that your code arrived over git. 1.5.0 removes all three
+assumptions - managing several servers from one UI, first-class k3s support,
+and deploying from an archive - alongside scheduled task control and installed
+plugin management.
+
+  [:octicons-arrow-right-24: Continue reading][Release 1.5.0]
+
+  [Release 1.5.0]: 2026/pro-release-1.5.0.md
+
 ## [Release 1.4.0]
 
 __The 1.4.0 release turns the internal rewrite from 1.3.0 into a wave of

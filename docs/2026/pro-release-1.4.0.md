@@ -32,7 +32,7 @@ Here are the highlights from Dokku Pro 1.4.0.
 ### Requires Dokku 0.38.22+
 
 !!! warning
-    Dokku Pro 1.2+ will refuse to start if the minimum Dokku version is not installed.
+    Dokku Pro 1.4+ will refuse to start if the minimum Dokku version is not installed.
 
 The minimum required Dokku version has moved from 0.35.15 to 0.38.22. As with
 previous releases, the bump lets Dokku Pro rely on newer functionality in Dokku
@@ -54,7 +54,7 @@ sudo dokku-update run --skip-rebuild
 ### Minimum required service plugin versions
 
 !!! warning
-    Dokku Pro 1.2+ will refuse to start if an installed plugin is not at the
+    Dokku Pro 1.4+ will refuse to start if an installed plugin is not at the
     minimum supported version.
 
 As a reminder, it is also recommended to update all service plugins to ensure
